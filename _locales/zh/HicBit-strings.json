@@ -167,6 +167,9 @@
 	"hicbit.unit.m|block":"米",
 	"hicbit.unit.cm|block":"厘米",
 	"hicbit.unit.mm|block":"毫米",
-	"hicbit.unit.null1|block":"不显示"
+	"hicbit.unit.null1|block":"不显示",
+	"hicbit.buzzer.ring|block":"响",
+	"hicbit.buzzer.Not_ringing|block":"不响",
+	"hicbit.Buzzer|block":"蜂鸣器"
 
 }

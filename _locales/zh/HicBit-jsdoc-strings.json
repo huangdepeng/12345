@@ -55,5 +55,6 @@
 	"hicbit.hicbit_on":"开启显示",
 	"hicbit.hicbit_clear":"清除显示",
 	"hicbit.Clearscreen":"清屏操作",
-	"hicbit.setDisplay":"屏幕显示设置（行数，内容，数值，量程）"
+	"hicbit.setDisplay":"屏幕显示设置（行数，内容，数值，量程）",
+	"hicbit.Buzzer":"蜂鸣器控制"
 }
